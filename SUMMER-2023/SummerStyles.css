@@ -1,0 +1,17 @@
+.Titre{color:red; text-align: center;}
+
+.SriLanka{text-align: center;}
+.SLListe{text-align: center;}
+.SLLogistique{text-align: center;}
+.SLglobal{text-align: center;}
+
+.Laos{text-align: center;}
+.LaosListe{text-align: center;}
+.LaosLogistique{text-align: center;}
+.Laosglobal{text-align: center;}
+
+.ol li{ margin-left: 40%; }
+li > span{
+    padding-left : 60px 
+  }
+  
